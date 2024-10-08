@@ -1,6 +1,6 @@
 # My new demo
 
-➡️ **[Open the demo](https://microsoftedge.github.io/Demos/my-new-demo/)** ⬅️
+➡️ **[Open the demo](https://microsoftedge.github.io/Demos/caret-position/)** ⬅️
 
 Demonstrating the functionality of caretPositionFromPoint is able to fucntion on the Shadow DOM.
 
